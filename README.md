@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! I'm Gabe 👋
+
+🌍  I am a Front-End Developer based in Belo Horizonte, Brazil.
 
 <!--
 **gabecar/gabecar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
